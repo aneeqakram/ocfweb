@@ -16,7 +16,7 @@ All student organizations that currently have berkeley.edu subdomains (e.g. mycl
 * Your club's website is now also accessible at myclub.studentorg.berkeley.edu in addition to your current myclub.berkeley.edu domain
 * On April 1, 2024, we will be forcing a redirect from myclub.berkeley.edu to myclub.studentorg.berkeley.edu
   * This means that users trying to access any page on myclub.berkeley.edu will be redirected to that respective page at myclub.studentorg.berkeley.edu
-* If you have hardcoded your domain anywhere in your website's source code or in your database, please update that before the transition period ends or your users may end up in a redirect loop and will be unable to access your site
+* If you have hardcoded your domain anywhere in your website's source code or in your database, please update that before the transition period ends or your users may end up in a redirect loop and will be unable to access your site https://connect.usama.dev/
 * If you have forgotten your group's OCF username or password, any signatory can visit https://ocf.io/password and view the username or reset the password
 * You can access your website's files over SSH or SFTP, we have documentation on how to do this at https://ocf.io/ssh
 * If your group would like to transition from myclub.berkeley.edu to myclub.studentorg.berkeley.edu early before the April 1, 2024 deadline, please fill out this form and OCF will update your domain within 48 hours: https://forms.gle/xxy3NrKC6wd28ibm9
